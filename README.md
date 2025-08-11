@@ -1,98 +1,56 @@
-<!-- START HEADER -->
+<!-- Profile Banner -->
 <p align="center">
-  <img src="https://github.com/your-username/your-username/raw/main/header.gif" alt="Hi, I'm NAME" width="100%" />
-</p>
-<!-- END HEADER -->
-
-<h1 align="center">Hi, I'm <b>Your Name</b> 👋</h1>
-<p align="center">
-  <em>A passionate Full-Stack / Frontend / Backend Developer • Love clean code, open-source & exploring new technologies.</em>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F79327&center=true&vCenter=true&width=700&lines=Hey!+I'm+RIYAZUL+ISLAM;Welcome+to+my+GitHub+Profile;Web+Developer+%7C+Designer+%7C+Learner" alt="Typing Animation" />
 </p>
 
----
+<!-- Profile Name -->
+<h1 align="center">
+  <img src="https://img.shields.io/badge/-DevRiyazul-black?style=for-the-badge&logo=github&logoColor=white" />
+</h1>
 
-## 🔭 Currently Working On
-- 🔸 **Project / Company name** — short one-line about what you're building.
-- 🔸 Open to collaboration on **web apps**, **APIs**, **automation**.
-
-## 🧰 Tech Stack
-- **Languages:** Python, JavaScript (ES6+), TypeScript, PHP
-- **Frontend:** React, Next.js, HTML5, CSS3, Tailwind
-- **Backend:** Node.js, Express, Django, FastAPI
-- **Databases:** PostgreSQL, MySQL, MongoDB
-- **Tools:** Git, Docker, VSCode, GitHub Actions, CI/CD
-
-## 🚀 Highlights
-- ✅ Built **AwesomeProject** — live demo: [demo.example.com](https://demo.example.com)  
-- ✅ Contributed to **OpenSourceRepo** — PRs: features + docs
-
----
-
-## 🔗 Quick Links
-[![Website](https://img.shields.io/badge/Website-Visit-blue)](https://your-website.com) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourprofile) 
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/yourhandle) 
-[![Email](https://img.shields.io/badge/Email-hello%40you.com-green)](mailto:hello@you.com)
-
----
-
-## 📊 GitHub Stats
+<!-- Profile Views -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="Streak Stats" />
-</p>
-
-## 🧩 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://komarev.com/ghpvc/?username=devriyazul&label=Profile+Views&color=orange&style=flat-square" alt="views"/>
 </p>
 
 ---
 
-## 🔥 Pinned Projects
-<!-- Replace these with your real repos -->
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/your-username/project-1">
-        <img src="https://raw.githubusercontent.com/your-username/project-1/main/screenshot.png" width="100%" alt="project-1"/>
-        <h4>Project 1</h4>
-      </a>
-      <p>Short 1-line description. Tech: React, Node</p>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/your-username/project-2">
-        <img src="https://raw.githubusercontent.com/your-username/project-2/main/screenshot.png" width="100%" alt="project-2"/>
-        <h4>Project 2</h4>
-      </a>
-      <p>Short description. Tech: Python, Django</p>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/your-username/project-3">
-        <img src="https://raw.githubusercontent.com/your-username/project-3/main/screenshot.png" width="100%" alt="project-3"/>
-        <h4>Project 3</h4>
-      </a>
-      <p>Short description. Tech: Next.js</p>
-    </td>
-  </tr>
-</table>
+### 🚀 About Me
+🌟 Passionate Developer | 💡 Creative Thinker | 🌍 Lifelong Learner  
+💻 I love exploring new technologies and building unique projects.
 
 ---
 
-## 🏆 Achievements & Trophies
+### 🛠 Skills
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=radical" alt="Trophies" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,php,java,c,cpp,mysql,mongodb,git,github,linux,vscode,figma&perline=9" />
 </p>
 
 ---
 
-## 📫 Contact
-- Email: hello@you.com  
-- LinkedIn: https://linkedin.com/in/yourprofile  
-- Twitter: https://twitter.com/yourhandle
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devriyazul&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devriyazul&theme=radical" height="165" />
+</p>
 
 ---
 
+### 📈 Contribution Graph
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&color=blue" alt="Visitor Count" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devriyazul&theme=tokyo-night" />
 </p>
+
+---
+
+### 🌐 Connect With Me
+<p align="center">
+  <a href="https://github.com/devriyazul" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
